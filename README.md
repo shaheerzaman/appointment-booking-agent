@@ -2,13 +2,13 @@
 
 To run the code here you will need to install the packages listed in the requirements.txt:
 
-bash```
+```bash
 pip install -r requirements.txt
 ```
 
 To run the streamlit app, you can use the following command:
 
-bash```
+```bash
 streamlit run app.py
 ```
 Happy Building Agents!
